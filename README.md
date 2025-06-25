@@ -1,6 +1,6 @@
 # Ulzira Perdebayeva 👩‍💻
 
-# Link:
+# Link: https://ulzirok.github.io/cv/
 
 ## 📞 Contact Info:
 - **Location:** Tashkent, Uzbekistan
