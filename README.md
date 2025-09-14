@@ -18,12 +18,14 @@ I am a beginner front-end developer with a background in accounting and a degree
 ## 💻 Skills:
 - HTML5, CSS3
 - BEM methodology, SCSS
-- JavaScript basics
+- JavaScript
 - Git, GitHub
 - VS Code
 - Figma, Adobe Photoshop
 - Gulp
-- Rolling Scopes School Stage 0 — in progress 🧩
+- Webpack
+- TypeScript
+- Angular
 
 ---
 
@@ -49,7 +51,8 @@ function findAverage(array) {
 - CSS by Alexander Lamkov on [youtube.com/@AleksanderLamkov](https://www.youtube.com/watch?v=PEQ3i9q3ez8&list=PL0MUAHwery4o9I7QQVj_RP4ZVpmdx6evz)
 - JavaScript for Beginners by Alexander Lamkov on [youtube.com/@AleksanderLamkov](https://www.youtube.com/watch?v=nCgFdChjnds&list=PL0MUAHwery4qn4Y27iUxmzC-JiauX7vSL)
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/first-steps) (in progress)
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- RS Schools Course «JavaScript/Front-end»
+- Angular Basic Course by Yuriy Simonov on [youtube.com/@YuriySimonov](https://www.youtube.com/playlist?list=PL2bJ6t_D6_KSSiM2Y8T32-5KgaNzzS4R6)
 
 ---
 
