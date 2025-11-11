@@ -49,6 +49,10 @@ p {
   line-height: 1.28;
 }
 
+.span-bold {
+  font-weight: bold;
+}
+
 .container,
 .section__container {
   max-width: 1440px;
