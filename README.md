@@ -6,7 +6,7 @@
 - **Location:** Tashkent, Uzbekistan
 - **GitHub:** [github.com/ulzirok](https://github.com/ulzirok)
 - **Email:** ulzirok@gmail.com
-- **Telegram:** @ulzirok
+- **Telegram:** @khmdmbvna
 
 ---
 
@@ -49,10 +49,11 @@ function findAverage(array) {
 - Frontend development [proweb.uz](https://proweb.uz/uz/courses/web-development)
 - HTML by Alexander Lamkov on [youtube.com/@AleksanderLamkov](https://www.youtube.com/watch?v=yE4Rlp0OeVc&list=PL0MUAHwery4ot0KmgGxlBSB7rXssLeA6h)
 - CSS by Alexander Lamkov on [youtube.com/@AleksanderLamkov](https://www.youtube.com/watch?v=PEQ3i9q3ez8&list=PL0MUAHwery4o9I7QQVj_RP4ZVpmdx6evz)
-- JavaScript for Beginners by Alexander Lamkov on [youtube.com/@AleksanderLamkov](https://www.youtube.com/watch?v=nCgFdChjnds&list=PL0MUAHwery4qn4Y27iUxmzC-JiauX7vSL)
+- JavaScript by Alexander Lamkov on [youtube.com/@AleksanderLamkov](https://www.youtube.com/watch?v=nCgFdChjnds&list=PL0MUAHwery4qn4Y27iUxmzC-JiauX7vSL)
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/first-steps) (in progress)
 - RS Schools Course «JavaScript/Front-end»
 - Angular Basic Course by Yuriy Simonov on [youtube.com/@YuriySimonov](https://www.youtube.com/playlist?list=PL2bJ6t_D6_KSSiM2Y8T32-5KgaNzzS4R6)
+- TypeScript Course by Dmitry Kolotilshchikov on [youtube.com/@IT-Introvert](https://www.youtube.com/watch?v=rPaRVcH9big&t=64s)
 
 ---
 
