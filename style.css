@@ -312,6 +312,9 @@ p {
   .header-contacts p {
     font-size: 16px;
   }
+  .header__name {
+    margin-left: 30px;
+  }
   p {
     font-size: 16px;
   }
@@ -338,6 +341,9 @@ p {
   } */
   .header-contacts p {
     font-size: 16px;
+  }
+  .header__name {
+    margin-left: 0;
   }
   p {
     font-size: 14px;
