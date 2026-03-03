@@ -15,20 +15,6 @@ I am a beginner front-end developer with a background in accounting and a degree
 
 ---
 
-## 💻 Skills:
-- HTML5, CSS3
-- BEM methodology, SCSS
-- JavaScript
-- Git, GitHub
-- VS Code
-- Figma, Adobe Photoshop
-- Gulp
-- Webpack
-- TypeScript
-- Angular
-
----
-
 ## 🔣 Code Example:
 **Calculate average:** Write a function which calculates the average of the numbers in a given array.
 
